@@ -1,11 +1,14 @@
-- 👋 Hi, I’m Khurram Saeed Rajput
-- 👀 I’m interested in the GAME DEVLOPMENT, 3D MODELING, ANIMATIONS, SCRIPTING, COMPUTER HARDWARE, NETWORKING, SERVERS, ETC. using C#, Unity, Photoshop, blender, Audacity, .Net, 
-- OneNote, Illustrator, VMWARE, Windows Server , Linux ETC. 
-- 🌱 I’m currently learning Advanced Game Development at Aptech Pakistan.
-- 💞️ I’m looking to collaborate on all the above mentioned topics/projects/Wings.
-- 📫 How to reach me, my email are- khurramsaeed3d@gmail.com, khurramsaeed.it@yahoo.com
+- 👋 Hi, I’m an indie game developer
 
-<!---
-Khurram3D/Khurram3D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I have developed games for Windows and Android platforms.
+My biggest project is 'IGS - I am Goimg to Space' . a Must play 3rd person shooter game. verying from desert , freezing peeks, launch site to spac. 
+A thrilling intense battle game with all AAA features. 
+find the game to download : https://rb-game-studio.itch.io/igs-i-am-going-to-space
+and Game website : https://sites.google.com/view/igs-rbs/home
+
+Others games are:
+1. Topdown shooter RPG 'Commandoes on Me' - an Andriod stealth puzzle.
+2. Hania's Cake Factory' - a 2d Android Cake backing sim
+3. A coin collection 2d RPG game ' The Lights' - A neon light environment game.
+
+You can conatact me on rbgamestudio@gmail.com
